@@ -104,5 +104,9 @@ table {
   max-width: 400px;
 }
 
+td {
+  align: center;
+}
+
 
 
