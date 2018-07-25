@@ -94,6 +94,7 @@ a:hover {
 
 table {
   padding: 50px;
+  margin: 0 auto;
 }
 
 .text-margin {
@@ -107,9 +108,4 @@ table {
 td {
   align: center;
 }
-
-table {
-  margin: 0 auto;
-}
-
 
